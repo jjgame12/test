@@ -45,3 +45,7 @@ if(i == 0)
 * 插入链接
 
 [baidu](http://www.baidu.com)
+
+* 插入图片
+
+![img](https://github.com/jjgame12/test/blob/master/pic.jpg)
